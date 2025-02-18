@@ -8,13 +8,17 @@
 
 _You created a branch! :tada:_
 
-Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it’s time to create a file and make your first commit!
+Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch,
+it’s time to create a file and make your first commit!
 
-**What is a commit?**: A _[commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)_ is a set of changes to the files and folders in your project. A commit exists in a branch. For more information, see "[About commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)".
+**What is a commit?**: A _[commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)_ is a set of changes to the files and folders in your project.
+A commit exists in a branch. For more information, see "[About commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)".
 
 ### :keyboard: Activity: Your first commit
 
-The following steps will guide you through the process of committing a change on GitHub. A commit records changes in renaming, changing content within, creating a new file, and any other changes made to your project. For this exercise, committing a change requires first adding a new file to your new branch.
+The following steps will guide you through the process of committing a change on GitHub. A commit records changes in renaming,
+changing content within, creating a new file, and any other changes made to your project.
+For this exercise, committing a change requires first adding a new file to your new branch.
 
 > [!NOTE]
 > `.md` is a file extension that creates a Markdown file. You can learn more about Markdown by visiting "[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)" in our docs or by taking the "[Communicating using Markdown](https://github.com/skills/communicate-using-markdown)" Skills course.
@@ -35,7 +39,10 @@ The following steps will guide you through the process of committing a change on
 
    ![profile.md file screenshot](/images/my-profile-file.png)
 
-5. Click **Commit changes...** in the upper right corner above the contents box. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice. First, enter `Add PROFILE.md` in the first text-entry field titled "Commit message".
+5. Click **Commit changes...** in the upper right corner above the contents box. For commits,
+6. you can enter a short commit message that describes what changes you made.
+7. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change
+8. it slightly for practice. First, enter `Add PROFILE.md` in the first text-entry field titled "Commit message".
 
    ![screenshot of adding a new file with a commit message](/images/commit-full-screen.png)
 
